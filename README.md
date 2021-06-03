@@ -1,5 +1,5 @@
 # Gogoanime (Unofficial)
-Download your desire anime episode from gogoanime.
+Download your desired anime episode from gogoanime.
 # Requirements
     1. Install Python 3 ( https://www.python.org/downloads/ )
     2. Install chrome driver (https://chromedriver.chromium.org/)
